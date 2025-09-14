@@ -50,7 +50,7 @@ configparser>=5.3.0
 
 ### 1. 克隆项目
 ```bash
-git clone <repository-url>
+git clone https://github.com/WLHomework/npm-registry-manage
 cd npm-registry-manage
 ```
 
